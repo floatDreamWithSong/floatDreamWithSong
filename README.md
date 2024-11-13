@@ -1,6 +1,6 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=floatDreamWithSong&theme=react)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floatDreamWithSong)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floatDreamWithSong)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floatDreamWithSong)
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
